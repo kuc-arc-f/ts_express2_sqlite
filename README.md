@@ -12,5 +12,7 @@ TypeScript + node/express + Vue.js, sqlite db sample
 ***
 ### blog
 
+https://knaka0209.hatenablog.com/entry/ts_4_express2
+
 ***
 
