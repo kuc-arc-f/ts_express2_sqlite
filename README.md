@@ -6,6 +6,8 @@
 
  date    : 2019/09/21
 
+ update  : 2021/09/20 
+
 ***
 TypeScript + node/express + Vue.js, sqlite db sample
 
